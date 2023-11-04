@@ -1,0 +1,18 @@
+
+
+body{
+    font-size: 20px;
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    color: white;
+    background-color: black;
+    border:transparent;
+    font-size: 50px;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
